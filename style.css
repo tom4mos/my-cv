@@ -78,6 +78,30 @@ a {
   margin-top: 0.25rem;
 }
 
+.download-cv {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 1rem;
+  padding: 0.5rem 0.85rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--header-fg);
+  border: 1px solid var(--header-fg);
+  border-radius: 4px;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.download-cv__icon {
+  display: block;
+}
+
+.download-cv:hover {
+  background: var(--header-fg);
+  color: var(--header-bg);
+}
+
 /* ---- Nav ---- */
 .site-nav {
   position: sticky;
