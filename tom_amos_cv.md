@@ -44,9 +44,15 @@ A highly experienced Principal Technical Delivery Manager with over 19 years of 
 
 ## Experience
 
+### Technical Delivery Lead — InHealth Group
+
+Answer Digital Ltd (for InHealth Group) | October 2026 – Present
+
+- End-to-end delivery of technical aspects for two internal projects.
+
 ### Technical Delivery Manager — Department for Transport (DfT) Road Safety Data Discovery
 
-Answer Digital Ltd (for Department for Transport) | July 2026 – Present
+Answer Digital Ltd (for Department for Transport) | July 2026 – September 2026
 
 - Leading end-to-end delivery of the Road Safety Data Discovery across its four phases, from current-state mapping through to future options and a final alpha recommendation within a fixed 12 week window.
 - Senior stakeholder engagement throughout whilst running and working closely with the discovery team (data architect, business analyst and user researcher).
